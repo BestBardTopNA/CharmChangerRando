@@ -20,5 +20,5 @@ Randomization shrinking:
 Exclude Regular Stats:
     Charm Changer has values that can change some non-charm behavior, such as base walking/running speed and focus speed. Turn this setting off if you want the base values randomized as well.
 
-Unimplimaneted: No Stat Decrease
-    Currently does nothing. When implemented it will allow you to ensure that charms that improve default behavior (such as sprintmaster increaseing running speed) will still be guarenteed to improve them post-randomization. Currently Sprintmaster's running speed can be lower than your normal speed, making it walkmaster.
+No Stat Decrease
+    Allows you to ensure that charms that improve default behavior (such as sprintmaster increaseing running speed) will still be guarenteed to improve them post-randomization. EG: If disabled Sprintmaster's running speed can be lower than your normal speed, making it walkmaster.

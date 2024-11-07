@@ -9,7 +9,7 @@ namespace CharmChangerRando
 
         public bool ExcludeRegularStats { get; set; } = true;
 
-        public bool NoStatDecrease { get; set; } = false;
+        public bool NoStatDecrease { get; set; } = true;
         public bool Enabled { get; set; } = true;
 
     }
