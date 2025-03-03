@@ -22,3 +22,6 @@ Exclude Regular Stats:
 
 No Stat Decrease
     Allows you to ensure that charms that improve default behavior (such as sprintmaster increaseing running speed) will still be guarenteed to improve them post-randomization. EG: If disabled Sprintmaster's running speed can be lower than your normal speed, making it walkmaster.
+
+Scale to Charm Cost
+    Allows you to scale the charms strength so it's always in proportion to the randomized notch values Rando4 gives, plus some randomness on top. 
